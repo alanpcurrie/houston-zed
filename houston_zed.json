@@ -1,0 +1,146 @@
+{
+  "$schema": "https://zed.dev/schema/themes/v0.1.0.json",
+  "name": "Astro Houston Theme Port",
+  "author": "Alan Currie",
+  "themes": [
+    {
+      "name": "Houston Zed",
+      "appearance": "dark",
+      "style": {
+        "background": "#171c28",
+        "foreground": "#eef0f9",
+        "accent": "#ffcc66",
+        "border": "#171c28",
+        "text": "#eef0f9",
+        "text.muted": "#858b98",
+        "text.accent": "#ffcc66",
+        "element": {
+          "background": "#2f3b54",
+          "hover": "#343841",
+          "active": "#4d5b7a",
+          "selected": "#5d6b8a"
+        },
+        "editor": {
+          "background": "#17191e",
+          "foreground": "#eef0f9",
+          "gutter": {
+            "background": "#17191e"
+          },
+          "line_number": {
+            "foreground": "#545864",
+            "active": "#858b98"
+          },
+          "active_line": {
+            "background": "#23262d"
+          },
+          "invisible": "#6679a4",
+          "wrap_guide": "#343841",
+          "active_wrap_guide": "#545864"
+        },
+        "status_bar": {
+          "background": "#17548b",
+          "foreground": "#eef0f9"
+        },
+        "panel": {
+          "background": "#23262d"
+        },
+        "title_bar": {
+          "background": "#17191e"
+        },
+        "toolbar": {
+          "background": "#23262d"
+        },
+        "tab": {
+          "active": {
+            "background": "#17191e"
+          },
+          "inactive": {
+            "background": "#23262d"
+          },
+          "background": "#23262d"
+        },
+        "scrollbar": {
+          "thumb": {
+            "background": "#54586466",
+            "border": "#545864B3"
+          },
+          "track": {
+            "background": "#17191e",
+            "border": "#343841"
+          }
+        },
+        "error": "#f4587e",
+        "warning": "#fbc23b",
+        "info": "#54b9ff",
+        "hint": "#4bf3c8",
+        "success": "#4bf3c8",
+        "syntax": {
+          "attribute": {
+            "color": "#ffd580"
+          },
+          "keyword": {
+            "color": "#54b9ff"
+          },
+          "type": {
+            "color": "#acafff"
+          },
+          "string": {
+            "color": "#ffd493"
+          },
+          "comment": {
+            "color": "#eef0f98f",
+            "font_style": "italic"
+          },
+          "constant": {
+            "color": "#ffd493"
+          },
+          "number": {
+            "color": "#ffd493"
+          },
+          "function": {
+            "color": "#00daef"
+          },
+          "function.method": {
+            "color": "#00daef"
+          },
+          "variable": {
+            "color": "#4bf3c8"
+          },
+          "variable.parameter": {
+            "color": "#eef0f9"
+          },
+          "punctuation": {
+            "color": "#eef0f9"
+          },
+          "tag": {
+            "color": "#54b9ff"
+          }
+        },
+        "terminal": {
+          "background": "#17191e",
+          "foreground": "#cccccc",
+          "bright_foreground": "#ffffff",
+          "dim_foreground": "#858b98",
+          "ansi": {
+            "black": "#17191e",
+            "red": "#dc3657",
+            "green": "#23d18b",
+            "yellow": "#ffc368",
+            "blue": "#2b7eca",
+            "magenta": "#ad5dca",
+            "cyan": "#24c0cf",
+            "white": "#eef0f9",
+            "bright_black": "#545864",
+            "bright_red": "#f4587e",
+            "bright_green": "#4bf3c8",
+            "bright_yellow": "#ffd493",
+            "bright_blue": "#54b9ff",
+            "bright_magenta": "#cc75f4",
+            "bright_cyan": "#00daef",
+            "bright_white": "#fafafa"
+          }
+        }
+      }
+    }
+  ]
+}
