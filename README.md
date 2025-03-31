@@ -32,7 +32,7 @@ A custom dark theme for the Zed editor inspired by the [Astro Houston VS Code th
 
 1. Clone this repository:
    ```
-   git clone https://github.com/user/houston-zed.git
+   git clone https://github.com/alanpcurrie/houston-zed.git
    ```
 
 2. Copy the `houston_zed.json` file to your Zed themes directory:
