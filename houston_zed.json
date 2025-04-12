@@ -31,7 +31,7 @@
             "active": "#858b98"
           },
           "active_line": {
-            "background": "#23262d"
+            "background": "#151b23"
           },
           "invisible": "#6679a4",
           "wrap_guide": "#343841",
@@ -42,22 +42,22 @@
           "foreground": "#eef0f9"
         },
         "panel": {
-          "background": "#23262d"
+          "background": "#151b23"
         },
         "title_bar": {
           "background": "#17191e"
         },
         "toolbar": {
-          "background": "#23262d"
+          "background": "#151b23"
         },
         "tab": {
           "active": {
             "background": "#17191e"
           },
           "inactive": {
-            "background": "#23262d"
+            "background": "#151b23"
           },
-          "background": "#23262d"
+          "background": "#151b23"
         },
         "scrollbar": {
           "thumb": {
@@ -88,7 +88,7 @@
             "color": "#ffd493"
           },
           "comment": {
-            "color": "#eef0f98f",
+            "color": "#858b98",
             "font_style": "italic"
           },
           "constant": {
